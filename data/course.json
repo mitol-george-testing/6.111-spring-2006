@@ -1,0 +1,40 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Computer Design and Engineering"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electronics"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Digital Systems"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "0c707f19-ab85-c294-ef84-8df096d812be"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introductory Digital Systems Laboratory",
+  "course_description": "6.111 is reputed to be one of the most demanding classes at MIT, exhausting many students' time and creativity. The course covers digital design topics such as digital logic, sequential building blocks, finite-state machines, FPGAs, timing and synchronization. The semester begins with lectures and problem sets, to introduce fundamental topics before students embark on lab assignments and ultimately, a digital design project. The students design and implement a final digital project of their choice, in areas such as games, music, digital filters, wireless communications, video, and graphics. The course relies on extensive use of Verilog\u00ae for describing and implementing digital logic designs on state-of-the-art FPGA.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.111",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Projects with Examples"
+  ],
+  "title": "Course Metadata"
+}

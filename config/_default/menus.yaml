@@ -1,0 +1,37 @@
+leftnav:
+- identifier: 14383def-7b06-d4ed-8efb-50809c74463b
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: bee2f61a-a2f7-7ee1-11c8-47fac4eade6c
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
+- identifier: f75f75e3-2475-7fc9-19a3-9765ec10aeff
+  name: Lecture Notes
+  url: /pages/lecture-notes
+  weight: 30
+- identifier: b07a1209-db13-f696-9f99-98a17dc3f627
+  name: Labs
+  url: /pages/labs
+  weight: 40
+- identifier: 90322a5b-1820-f46e-c7ab-c74d3d687c44
+  name: Assignments
+  url: /pages/assignments
+  weight: 50
+- identifier: 9de2f044-f1b8-3cdf-dc9e-5d882607fe1b
+  name: Exams
+  url: /pages/exams
+  weight: 60
+- identifier: 332f2eab-5d2e-3e04-51e5-b212cabc7de3
+  name: Projects
+  url: /pages/projects/
+  weight: 70
+- identifier: 8f162ef2-6bdb-ae47-4a18-461ce76ffe83
+  name: Related Resources
+  url: /pages/related-resources
+  weight: 80
+- identifier: e00fa618-e488-14d9-837d-056e10a2a140
+  name: Lab Kit
+  url: /pages/lab-kit
+  weight: 90
